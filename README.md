@@ -1,0 +1,2 @@
+# AtcoderBot
+Atcoderの大会の情報をDiscordに通知するBot
